@@ -8,5 +8,10 @@ The analysis is built on enriched and cleaned YouTube channel data, focusing on 
 
 The repository includes the Power BI dashboard file, dataset, documentation, and visuals so others can explore, learn, and build upon the analysis.
 
-A practical example of turning YouTube data into **clear, actionable insights for marketing and influencer decision-making using Power BI**.
+A practical example of turning YouTube data into clear, actionable insights for marketing and influencer decision-making using Power BI.
+<p align="center">
+  <a href="assets/Top_Indian_YouTubers_2024.pbix">
+    <img src="assets/powerbi_icon.png" width="120">
+  </a>
+</p>
 
